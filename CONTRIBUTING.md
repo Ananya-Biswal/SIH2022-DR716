@@ -1,5 +1,4 @@
 ## How to Contribute in this Project (Git Work Flow)
----
 
 ### 1. **Fork the Repository**
   - Click the fork button to fork the repository. 
@@ -33,6 +32,7 @@ git remote add upstream git@github.com:Navdeepsingh4298/SIH2022-DR716.git
   - Comment on issue to assign, after assigning then create branch.  
   - It's Best practice to name branch as issue name and issue no together.
   - Type the following *git checkout* or *git switch* command on terminal 
+  
   -> old way:
 ```
 git checkout -b <new-branch-name>
