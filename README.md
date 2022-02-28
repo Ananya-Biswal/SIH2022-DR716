@@ -21,11 +21,11 @@
 ---
 
 ### How to Contribute?
-To Know in detail read the [CONTRIBUTING.md](https://github.com/Navdeepsingh4298/SIH2022-DR716/blob/main/CONTRIBUTING.md).
+To Know more in detail read the [CONTRIBUTING.md](https://github.com/Navdeepsingh4298/SIH2022-DR716/blob/main/CONTRIBUTING.md) file.
 
 ---
 
 ### Who are Contributors of this project?
-Hava a look at list of contributors in [CONTRIBUTORS.md](https://github.com/Navdeepsingh4298/SIH2022-DR716/blob/main/CONTRIBUTORS.md)
+Have a look at list of contributors in [CONTRIBUTORS.md](https://github.com/Navdeepsingh4298/SIH2022-DR716/blob/main/CONTRIBUTORS.md) file.
 
 ---
