@@ -17,3 +17,15 @@
 - **_Category_** Software
 
 - **_Domain Bucket_** Smart Education
+
+---
+
+### How to Contribute?
+To Know in detail read the [CONTRIBUTING.md](https://github.com/Navdeepsingh4298/SIH2022-DR716/blob/main/CONTRIBUTING.md).
+
+---
+
+### Who are Contributors of this project?
+Hava a look at list of contributors in [CONTRIBUTORS.md](https://github.com/Navdeepsingh4298/SIH2022-DR716/blob/main/CONTRIBUTORS.md)
+
+---
