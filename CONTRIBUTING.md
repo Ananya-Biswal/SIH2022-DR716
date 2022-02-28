@@ -86,9 +86,9 @@ git push --set-upstream origin <new-branch-name>
   - Go to that link or simply go to original repo.
   - There will be a automatic popup to create new pull request, click on that.
   - fill out the description of PR with neccesary details like 
-    => which issue you solved 
-    => what have you done output with screenshot 
-    => that helps owner/maintainer to review your PR. 
+    * which issue you solved 
+    * what have you done output with screenshot 
+    * that helps owner/maintainer to review your PR. 
 
 ### 11. **Why wait until PR is merged (Keep Coding)**
   - Owner review your pull request(PR) and give feedback to make some changes or simply merge it.
@@ -107,10 +107,13 @@ git push --set-upstream origin <new-branch-name>
   - Create new brancg for another issue
   
 ### 14. **Repeat Step 5 and Step 6 (Code and Commit)**
+  - Code the solution of issue.
+  - Commit your Code.
+  
 ### 15. **Update Forked Repo in GitHub (fetch update code if any)**
   - It's important to Update your forked repo with latest code from original one.
   - It's recommended to update before pushing code to avoid merge conflicts.
-  - 
+  
 ### 16. **Repeat Step 8, Step 9 and Step 10 (Pull, Push the code and make PR)**
   - Pull code to update code on local machine.
   - Push your code to forked repo on GitHub.
