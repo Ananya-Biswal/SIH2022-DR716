@@ -116,9 +116,14 @@ git push --set-upstream origin <new-branch-name>
   - Just comment on that to assign issue. 
   - After assigning issue, you can start work on that.
   - But, When your PR is merged. Then, you can delete your branch for sake of cleaniness.
-  - Deleting branch on your side won't affect code on original side.
+  - Deleting branch on your side won't affect code on original repo.
   - ![pic11 0](https://user-images.githubusercontent.com/65288518/156110408-07d4fe39-0e04-4eb6-990e-0be042ff1b76.png)
   - ![pic11 1](https://user-images.githubusercontent.com/65288518/156110416-4bae1f79-1d36-46cf-b32f-c6fd10851765.png)
+  - Delete branch at local machine, Type the following command on terminal
+  
+```
+git branch -d <branch-name>  
+```  
 
 ## Wanna Contribute Again? (follow the steps below)
 
