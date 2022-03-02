@@ -1,5 +1,17 @@
 ## How to Contribute to this Project? (Git & Github Work Flow)
 
+Contents:
+1. [Fork the Repo](#1. Fork the Repository)
+2. [Clone Forked Repository](#2. Clone Forked Repository)
+3. [Configure remote]()
+4. [Create Branch]()
+5. [Make Changes/Code]()
+6. [Commit Changes/Code]()
+7. [Update Forked Repo]()
+8. [Push Changes/Code ]()
+9. [Create Pull Request]()
+10. [Reapeat Again]()
+
 ### 1. **Fork the Repository**
   - Click the fork button to fork the repository. 
   ![pic1 0](https://user-images.githubusercontent.com/65288518/156108901-c6ba0d91-168e-49e9-9c64-a36c5016617f.png)
