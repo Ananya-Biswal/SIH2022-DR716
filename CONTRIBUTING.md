@@ -1,16 +1,17 @@
 ## How to Contribute to this Project? (Git & Github Work Flow)
 
 Contents:
-1. [Fork the Repo](/CONTRIBUTING.md/#1.ForktheRepository)
-2. [Clone Forked Repository](/CONTRIBUTING.md/#2.CloneForkedRepository)
-3. [Configure remote]()
-4. [Create Branch]()
-5. [Make Changes/Code]()
-6. [Commit Changes/Code]()
-7. [Update Forked Repo]()
-8. [Push Changes/Code ]()
-9. [Create Pull Request]()
-10. [Reapeat Again]()
+1. [Fork the Repo](/CONTRIBUTING.md/#1-fork-the-repository)
+2. [Clone Forked Repository](/CONTRIBUTING.md/#2-Clone-Forked-Repository)
+3. [Configure remote](/CONTRIBUTING.md#3-configure-remote-upstream-to-original-repolink-forked-to-original-one---need-to-do-it-only-once)
+4. [Create Branch](/CONTRIBUTING.md#4-create-branch-for-your-code)
+5. [Make Changes/Code](/CONTRIBUTING.md#5-do-codingchanges-coding-time)
+6. [Commit Changes/Code](/CONTRIBUTING.md#6-commit-changes-save-your-code)
+7. [Update Forked Repo](/CONTRIBUTING.md#7-update-forked-repo-in-githubfetch-update-code-if-any)
+8. [Pull Changes/Code](/CONTRIBUTING.md#8-pull-updated--latest-code-fetching-latest-code-from-forked-repo-if-any)
+9. [Push Changes/Code](/CONTRIBUTING.md#9-push-code-to-github-pushing-your-code-to-forked-repo)
+10. [Create Pull Request](/CONTRIBUTING.md#10-create-a-pull-request-request-the-owner-to-pull-your-code)
+11. [Repeat again? then continue](/CONTRIBUTING.md#11-why-wait-until-pr-is-merged-keep-coding)
 
 ### 1. **Fork the Repository**
   - Click the fork button to fork the repository. 
